@@ -1,4 +1,4 @@
-# IBM-HTTP-Server
+# Dummy guide to install no-charge IBM-HTTP-Server
 IBM-HTTP-Server installation
 
 
