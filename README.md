@@ -1,6 +1,9 @@
 # Dummy guide to install no-charge IBM-HTTP-Server
 IBM-HTTP-Server installation
 
+by default IBM HTTP server come together with IBM websphere application server .
+if you require only IBM HTTP server , just try following steps.
+
 
 ## https://www-01.ibm.com/support/docview.wss?uid=swg21972167
 
